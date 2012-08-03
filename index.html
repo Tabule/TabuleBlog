@@ -1,0 +1,27 @@
+---
+layout: default
+title: Tabule Blog
+---
+
+<div id="home">
+
+    {% for post in site.posts %}
+      <div class="postunit">
+        <div class="info-column">
+            <div class="date"><a href="{{ post.url }}"><span class="date-day">{{ post.date | date: '%b %d' }}</span></a> / {{ post.time }}</div>
+        </div>
+        <div class="post">
+                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                <div class="posted_by">by {{ post.author }}</div>
+                <div class="post_body">
+                  {{ post.content }}
+                </div>
+                <div class="post_comments">
+                  <a href="{{ post.url }}#disqus_thread"></a>
+                </div>
+        </div>
+        <div class="clear"></div>
+      </div>
+    {% endfor %}
+
+</div>

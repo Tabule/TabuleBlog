@@ -1,0 +1,1 @@
+This is the data for **[blog.tabuleapp.com](http://blog.tabuleapp.com)**. It is powered by [Jekyll](http://github.com/mojombo/jekyll) and hosted on [GitHub Pages](http://pages.github.com).
