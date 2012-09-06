@@ -2,7 +2,7 @@
 layout: post
 title: Tabule at ThinkChicago Press Conference
 comments: true
-author: Neil Gupta
+author: Eric Trinh
 time: 11:56am
 ---
 
