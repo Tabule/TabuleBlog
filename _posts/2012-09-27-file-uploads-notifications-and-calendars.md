@@ -22,6 +22,6 @@ Calendar Syncing!
 
 These updates just keep getting better and better, don't they? Well, I've saved the best for last. You can now sync your Tabule calendar with your Google Calendar, iCal, or any other calendaring application that supports the iCal format. Just go to your [settings](https://tabuleapp.com/settings) page and click on "Subscribe to Calendar." Then choose the option most relevant to you.
 
-<img src="/post_files/calSetup.png" alt="" width="602" height="362" />
+<img src="/post_files/calSetup.png" alt="" width="452" height="272" />
 
 As always, more great features coming your way soon!
