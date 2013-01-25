@@ -6,9 +6,9 @@ author: Neil Gupta
 time: 3:47pm
 ---
 
-We just launched our [iPhone app](https://itunes.apple.com/us/app/tabule/id590235792?mt=8&uo=4) last week to help you easily keep track of your due dates, but what if you don't have an iPhone? Starting today, you can also enjoy all the benefits of Tabule by texting your due dates!
+We just launched our [iPhone app](https://itunes.apple.com/us/app/tabule/id590235792?mt=8&uo=4) last week to help you easily keep track of your due dates, but what if you don't have an iPhone? Starting today, you can also enjoy all the benefits of Tabule by texting your due dates! **[Sign up now](https://tabuleapp.com).**
 
-Start by adding your cell number to your profile from your account settings window. Don't worry, this number won't show to anybody else.
+Start by adding your cell number to your profile from your account settings window. Don't worry, we won't share this number with anybody.
 
 ![Tabule Settings](/post_files/settings.png)
 
