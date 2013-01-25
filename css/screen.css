@@ -14,7 +14,7 @@
 body {
   background: #fff;
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 12px;
+  font-size: 15px;
   color: #404040;
 }
 
@@ -80,7 +80,7 @@ a:hover {
 
 .site_description {
   text-align: center;
-  font-size: 12px;
+  font-size: 13px;
   color: #aaa;
   line-height: 20px;
 }
@@ -160,7 +160,7 @@ h2 a:hover {
 }
 
 .post p, .post div {
-    line-height: 1.5em;
+    line-height: 1.7em;
 }
 
 .posted_by {
