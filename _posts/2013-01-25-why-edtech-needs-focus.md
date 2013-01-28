@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't just build another Blackboard, focus on specific problems.
+title: Focus
 comments: true
 author: Neil Gupta
 time: 4:53pm
@@ -8,7 +8,7 @@ time: 4:53pm
 
 Technology in education is a hotly debated topic. Some feel that it should be left out of the classroom because it only serves to distract students, while others think that it should be embraced rather than feared. I am, of course, a member of the latter school. However, I am also a strong believer that technology needs to serve a purpose. You can't throw technology at a problem just for the sake of doing so and expect anything to change.
 
-Unfortunately, that's how education has been widely approached so far. The problem persists because the primary customers in this industry are the schools, not students or teachers. Nobody asks the actual users what they want. That's why every few months, you see a whole new learning management system hoping to disrupt Blackboard without offering anything different.
+Unfortunately, that's how education has been widely approached so far. Blackboard does everything, but it does nothing particularly well. Smart boards are cool, but they aren't particularly useful. The problem persists because the primary customers in this industry are the schools, not students or teachers. Nobody asks the users what they actually want. That's why every few months, you see another startup rebuilding Blackboard with a cleaner interface, hoping to disrupt them without offering anything meaningfully different.
 
 We need to consider how technology can be harnessed to solve *specific* problems. For example, at [Tabule](https://tabuleapp.com), we're focusing on a small problem that is a big pain for students: managing homework. It is unnecessarily difficult for students to stay organized and keep track of due dates. Carrying around a student planner isn't practical, and using a todo list requires effort to fill out a form and organize yourself every time you want to add a date. As a result, students just write stuff on their hands or in a notebook, and forget.
 
