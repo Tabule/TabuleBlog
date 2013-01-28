@@ -6,8 +6,6 @@ author: Neil Gupta
 time: 4:53pm
 ---
 
-EdTech, don't just build another Blackboard. Focus on specific problems.
-
 Technology in education is a hotly debated topic. Some feel that it should be left out of the classroom because it only serves to distract students, while others think that it should be embraced rather than feared. I am, of course, a member of the latter school. However, I am also a strong believer that technology needs to serve a purpose. You can't throw technology at a problem just for the sake of doing so and expect anything to change.
 
 Unfortunately, that's how education has been widely approached so far. Blackboard does everything, but it does nothing particularly well. Smart boards are cool, but they aren't useful to teachers. Clickers are useful, but painful to use. The problem persists because the primary customers in this industry are the schools, not students or teachers. Nobody asks the users what they actually want. That's why every few months, you see another startup rebuilding Blackboard with a cleaner interface, hoping to disrupt them without offering anything meaningfully different.
