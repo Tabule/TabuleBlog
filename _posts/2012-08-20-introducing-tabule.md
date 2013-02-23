@@ -12,4 +12,4 @@ Tabule is the central homework management system you always wanted. It obviates 
 
 Once you've signed up with your .edu email address, you can start adding your classes. You can also create groups for non-class things, like student organizations or study groups.
 
-We think you'll really like Tabule and find it useful in organizing your classes. We are working hard to add even more cool new features, and [love to hear any feedback](http://support.tabuleapp.com)!
+We think you'll really like Tabule and find it useful in organizing your classes. We are working hard to add even more cool new features, and [love to hear any feedback](http://tabule.uservoice.com)!

@@ -16,4 +16,4 @@ You will receive a text from us, asking you to reply "yes" to verify your number
 
 ![Tabule Settings](/post_files/sms.png)
 
-As an added bonus for smartphone users, you can also [sync your Tabule calendar](http://support.tabuleapp.com/knowledgebase/articles/117270-how-do-i-sync-tabule-with-my-calendar-) with Google Calendar to easily see your due dates from your phone.
+As an added bonus for smartphone users, you can also [sync your Tabule calendar](http://tabule.uservoice.com/knowledgebase/articles/117270-how-do-i-sync-tabule-with-my-calendar-) with Google Calendar to easily see your due dates from your phone.
