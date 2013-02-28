@@ -15,6 +15,7 @@ layout: nil
  </author>
 
  {% for post in site.posts %}
+ {% if post.unpublished != true %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="http://blog.tabuleapp.com{{ post.url }}"/>
@@ -24,6 +25,7 @@ layout: nil
    	{{ post.content | xml_escape }}
    </content>
  </entry>
+ {% endif %}
  {% endfor %}
  
 </feed>

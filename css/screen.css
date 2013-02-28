@@ -62,29 +62,35 @@ a:hover {
 
 .site {
   width: 670px;
-  margin: 2em auto 2em auto;
+  margin: 2em auto;
 }
 
 .title {
-  color: #454545;
-  font-weight: bold;
-  font-size: 36px;
-  text-align: center;
-  vertical-align: top;
-  margin-bottom: 20px;
+  float: left;
+  width: 300px;
 }
 
-.title a {
+.title img {
+  float: left;
+}
+
+.title span a {
+  font-weight: bold;
+  font-size: 20px;
   color: #454545;
+  padding-top: 15px;
+  margin-left: 20px;
+  float: left;
 }
 
 .site_description {
-  text-align: center;
   font-size: 13px;
   color: #aaa;
   line-height: 20px;
-  width: 450px;
-  margin: 0 auto 20px auto;
+  width: 250px;
+  text-align: right;
+  float: right;
+  margin-top: 7px;
 }
 
 .site .footer {

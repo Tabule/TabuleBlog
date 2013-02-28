@@ -6,6 +6,7 @@ title: Tabule Blog
 <div id="home">
 
     {% for post in site.posts %}
+      {% if post.unpublished != true %}
       <div class="postunit">
         <div class="info-column">
             <div class="date"><a href="{{ post.url }}"><span class="date-day">{{ post.date | date: '%b %d' }}</span></a> / {{ post.time }}</div>
@@ -22,6 +23,7 @@ title: Tabule Blog
         </div>
         <div class="clear"></div>
       </div>
+      {% endif %}
     {% endfor %}
 
 </div>
