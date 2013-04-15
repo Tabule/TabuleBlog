@@ -14,11 +14,11 @@ The perfect assistant would find out and remind you of homework that you didn't 
 
 # 2. Reminders
 
-Tabule emails you a summary of everything you need to do today every morning. This means your agenda for the day is waiting in your inbox when you wake up, without having to ask.
+Tabule emails you a summary of everything you need to do today every morning, so your agenda for the day is waiting in your inbox when you wake up, without having to ask.
 
 # 3. Forward your emails
 
-Forward your emails to Tabule to quickly add them to your schedule. That means when your professor emails you to announce the bio lab that's due next Friday, just click forward and Tabule will take care of the rest. To find your personal Tabule email address, just look in your profile.
+Forward your emails to Tabule to quickly add them to your schedule. When your professor emails you to announce the bio lab that's due next Friday, just click forward and Tabule will take care of the rest. To find your personal Tabule email address, just look in your profile.
 
 # 4. Text your homework
 
