@@ -98,6 +98,7 @@ a:hover {
   color: #666;
   border-top: 4px solid #eee;
   margin-top: 2em;
+  padding-top: 10px;
   overflow: hidden;
 }
 
@@ -169,6 +170,11 @@ h2 a:hover {
 
 .post p, .post div {
     line-height: 1.7em;
+}
+
+.post img {
+    display: block;
+    margin: 10px auto;
 }
 
 .posted_by {

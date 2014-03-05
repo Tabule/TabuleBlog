@@ -6,8 +6,6 @@ author: Neil Gupta
 time: 9:39pm
 ---
 
-![Tabule on iPhone](https://tabuleapp.com/images/login/stats.jpg)
-
 Classes have started, and that means homework... Good thing Tabule for iPhone is now available!
 
 Remembering due dates with Tabule is so easy, a koala could do it: just type "bio homework is due next week" and we'll take care of the rest. Our natural language engine is intelligent, so you can write however you want and Tabule will organize it for you.
